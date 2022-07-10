@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Cheif Finance Officer (CFO)",
+        "responsibilities": [
+            "Handle Accounts for the org.",
+            "Able to assign works to other members like "
+        ],
+        "powers": []
+    },
+    {
+        "title": "Cheif Communication Officer (CCO)",
+        "responsibilities": [
+            "Communicate any decisions that took place in any meeting.",
+            ""
+        ],
+        "powers": []
+    },
+    {
+        "title": "Cheif Innovations Officer (CIO)",
+        "responsibilities": [],
+        "powers": []
+    }
+]
