@@ -2,22 +2,35 @@
     {
         "title": "Cheif Finance Officer (CFO)",
         "responsibilities": [
-            "Handle Accounts for the org.",
-            "Able to assign works to other members like "
+            "Keep Information of the accounts of the org.",
+            "Helps members understand about current situation of finance."
         ],
-        "powers": []
+        "powers": [
+            "Able to decide where to utilize our money",
+            "Able to increase the collection money according to suitability",
+            "If any member has any idea to utilize the collected funds it must first be told to the CFO."
+        ]
     },
     {
         "title": "Cheif Communication Officer (CCO)",
         "responsibilities": [
-            "Communicate any decisions that took place in any meeting.",
-            ""
+            "Communicate any decisions that took place in any meeting."
         ],
-        "powers": []
+        "powers": [
+            "Has information to any small thing that happens in the organization",
+            "Able to assign members to conduct a meeting in case of faliure of a single member.",
+            "Members should inform CCO in case of their absence in the meeting."
+        ]
     },
     {
         "title": "Cheif Innovations Officer (CIO)",
-        "responsibilities": [],
-        "powers": []
+        "responsibilities": [
+            "Come up with ideas and innovations to make meetings interesting",
+            "Brainstorm ways to creativity."
+        ],
+        "powers": [
+            "Able to assign members to work for any creative process.",
+            "Members have to get over the fear of shame for any innovative task assigned by CIO"
+        ]
     }
 ]
